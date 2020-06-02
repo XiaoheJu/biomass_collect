@@ -1,0 +1,3 @@
+样品：sample_2265，url：https://phyllis.nl/Biomass/AjaxView/sample_2265
+样品：sample_1288，url：https://phyllis.nl/Biomass/AjaxView/sample_1288
+样品：sample_1296，url：https://phyllis.nl/Biomass/AjaxView/sample_1296
